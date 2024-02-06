@@ -1,0 +1,22 @@
+/* styles.css */
+
+/* Style for h3 title */
+h3 {
+    color: blue;
+    text-align: center;
+}
+
+/* Style for ul */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style for li */
+li {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
